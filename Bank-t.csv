@@ -1,4 +1,4 @@
-,Education_Level,Customer_Age,Percent,Education_t
+,Education_Level,Customer_Age_x,Percent,Education_t
 0,College,1013,0.10002962377801916,College
 1,Doctorate,451,0.044534412955465584,Others
 2,Graduate,3128,0.308877258813074,Graduate
